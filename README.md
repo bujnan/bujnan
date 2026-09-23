@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Imad Boujnane 👋
 
-<!--
-**bujnan/bujnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student at Institut Obert de Catalunya (IOC).
 
-Here are some ideas to get you started:
+I built my programming foundation through [ProgrammingAdvices](https://programmingadvices.com), studying programming fundamentals, problem solving, C++, C#, OOP, SQL, and database development. I'm now continuing to develop my skills through practical projects and my DAM studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+* C# and .NET
+* SQL and database development
+* Object-Oriented Programming
+* Software development fundamentals
+
+### Projects
+
+**Driving & Vehicle License Department**
+A C# desktop application built with .NET Framework, Windows Forms, SQL, ADO.NET, and 3-tier architecture.
+
+**BankApp**
+A C++ console-based bank management system using OOP, file-based data storage, authentication, and user management.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/bujnan/)
