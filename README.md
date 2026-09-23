@@ -1,15 +1,14 @@
 # Hi, I'm Imad Boujnane 👋
 
-I'm a Software Development student at Institut Obert de Catalunya (IOC).
+I'm a Software Development student at Institut Obert de Catalunya (IOC), currently studying DAM (Desarrollo de Aplicaciones Multiplataforma).
 
-I built my programming foundation through [ProgrammingAdvices](https://programmingadvices.com), studying programming fundamentals, problem solving, C++, C#, OOP, SQL, and database development. I'm now continuing to develop my skills through practical projects and my DAM studies.
+I built my programming foundation through [ProgrammingAdvices](https://programmingadvices.com), where I studied programming fundamentals, problem solving, C++, C#, OOP, SQL, and database development. I'm now continuing to develop my skills through practical projects and my DAM studies.
 
-### Currently Learning
+### Current Focus
 
 * C# and .NET
 * SQL and database development
-* Object-Oriented Programming
-* Software development fundamentals
+* Building practical software projects
 
 ### Projects
 
